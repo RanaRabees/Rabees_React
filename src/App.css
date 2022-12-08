@@ -1,0 +1,260 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  border-radius: 50%;
+  height: 30vmin;
+  /* clip-path: polygon(50% 0%, 80% 10%, 100% 35%, 100% 70%, 80% 90%, 50% 100%, 20% 90%, 0% 70%, 0% 35%, 20% 10%); */
+  /* clip-path: circle(46.8% at 50% 84%); */
+  clip-path: polygon(50% 0%, 83% 12%, 100% 43%, 94% 78%, 68% 100%, 32% 100%, 6% 78%, 0% 43%, 17% 12%);
+  pointer-events: none;
+}
+
+/* .App-logo:hover{
+  box-shadow:
+    0 2.8px 2.2px rgba(0, 0, 0, 0.34),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+    0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12);
+} */
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 5s linear;
+
+  }
+}
+
+.App-header:hover {
+  box-shadow:
+    0 2.8px 2.2px rgba(0, 0, 0, 0.34),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+    0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12);
+}
+
+body {
+  background-color: #f9d6ac
+}
+
+.App-header {
+  clip-path: circle(50% at 50% 97%);
+  background-color: #ba986e;
+  min-height: 50vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(86, 14, 14);
+  font-style: italic;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+
+  }
+}
+#title{
+  font-family: monospace;
+  color: chartreuse;
+  font-size: 4rem;
+  /* height: 100px; */
+
+}
+#tree {
+  width: 100%;
+  height: 700px;
+  background-color: #f4c3ad;
+  border-radius: 50px;
+}
+
+#root {
+  width: 100%;
+  height: 300px;
+  background-color: #669ce3;
+  border-radius: 50px;
+}
+
+#rana1 {
+  width: 100%;
+  height: 300px;
+  background-color: #0ece21;
+  margin-top: 10px;
+  border-radius: 50px;
+}
+
+#rana2 {
+  width: 100%;
+  height: 300px;
+  background-color: #29362a;
+  margin-top: 10px;
+  border-radius: 50px;
+}
+
+#rana3 {
+  width: 100%;
+  height: 300px;
+  background-color: #f23610;
+  margin-top: 10px;
+  border-radius: 50px;
+}
+
+#rana4 {
+  width: 100%;
+  height: 300px;
+  background-color: #9d5a2e;
+  margin-top: 10px;
+  border-radius: 50px;
+}
+
+#rana5 {
+  width: 100%;
+  height: 300px;
+  background-color: #ce980e;
+  margin-top: 10px;
+  border-radius: 50px;
+}
+
+#rana6 {
+  width: 100%;
+  height: 300px;
+  background-color: #931031;
+  margin-top: 10px;
+  border-radius: 50px;
+}
+
+#rana7 {
+  width: 100%;
+  height: 300px;
+  background-color: #86e010;
+  margin-top: 10px;
+  border-radius: 50px;
+}
+
+#rana8 {
+  width: 100%;
+  height: 300px;
+  background-color: #0ecec1;
+  margin-top: 10px;
+  border-radius: 50px;
+}
+
+#rana9 {
+  width: 100%;
+  height: 300px;
+  background-color: #9c136a;
+  margin-top: 10px;
+  border-radius: 50px;
+}
+
+#rana10 {
+  width: 100%;
+  height: 300px;
+  background-color: #0e3bce;
+  margin-top: 10px;
+  border-radius: 50px;
+}
+
+#rana11 {
+  width: 100%;
+  height: 300px;
+  margin-top: 10px;
+  background-color: #9e0ece;
+  border-radius: 50px;
+}
+
+#rana12 {
+  width: 100%;
+}
+
+#rana13 {
+  width: 100%;
+}
+
+#rana14 {
+  width: 100%;
+}
+
+#rana15 {
+  width: 100%;
+}
+
+#rana16 {
+  width: 100%;
+}
+
+#rana17 {
+  width: 100%;
+}
+
+#rana18 {
+  width: 100%;
+}
+
+#rana19 {
+  width: 100%;
+}
+
+#rana20 {
+  width: 100%;
+}
+
+#rana21 {
+  width: 100%;
+}
+
+#rana22 {
+  width: 100%;
+}
+
+#rana23 {
+  width: 100%;
+}
+
+#rana24 {
+  width: 100%;
+}
+
+#rana25 {
+  width: 100%;
+}
+
+#rana26 {
+  width: 100%;
+}
+
+#rana27 {
+  width: 100%;
+}
+
+#rana28 {
+  width: 100%;
+}
+
+#rana29 {
+  width: 100%;
+}
+
+#rana30 {
+  width: 100%;
+}
+
+
+
+
